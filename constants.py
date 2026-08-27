@@ -1,0 +1,7 @@
+DATA_FILE = "data.json"
+
+MIN_AGE = 5
+MAX_AGE = 100
+
+MIN_MARKS = 0
+MAX_MARKS = 100
